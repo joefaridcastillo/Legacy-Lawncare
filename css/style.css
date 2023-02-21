@@ -552,6 +552,10 @@ color: #777;
 		}
 		.intro p {
 			font-size: 16px;
+			font-weight:500
 		}
-			
+		#about p{
+			color: #ffff;
+			text-align: center;
+		}
 	}
