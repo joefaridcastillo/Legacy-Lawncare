@@ -179,7 +179,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#99000000', e
 }
 .intro h1 {
 	color: #fff;
-	font-size: 64px;
+	font-size: 50px;
 	font-weight: 700;
 	letter-spacing: -1px;
 	margin-top: 0;
@@ -541,3 +541,14 @@ color: #777;
 #footer a:hover {
 	color: #ccc;
 }
+
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) 
+  and (-webkit-min-device-pixel-ratio: 3) { 
+
+		.intro h1 {
+			font-size: 30px;
+		}
+			
+	}
