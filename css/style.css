@@ -357,7 +357,7 @@ ol.type li a:hover {
 	transition-property: transform, opacity;
 }
 .portfolio-item {
-	margin: 15px 0;
+	margin: 15px 0 0 80px;
 }
 .portfolio-item .hover-bg {
 	overflow: hidden;
