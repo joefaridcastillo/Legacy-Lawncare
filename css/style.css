@@ -378,7 +378,6 @@ ol.type li a:hover {
 }
 .hover-bg:hover .hover-text>h4 {
 	opacity: 1;
-
 	-webkit-transform: translateY(0);
 	transform: translateY(0);
 }
@@ -558,5 +557,8 @@ color: #777;
 		#about p{
 			color: #ffff;
 			text-align:left;
+		}
+		.navbar-brand {
+			padding: 0;
 		}
 	}
