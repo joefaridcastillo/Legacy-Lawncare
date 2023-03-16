@@ -251,8 +251,34 @@ header .intro-text {
 	line-height: 24px;
 	margin-top: 20px;
 }
-/* Services Section */
 
+/*Modal*/
+
+#modal {
+	margin: 0;
+	padding: 50px 0 0 0;
+}
+.modal-btn{
+color: #000;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+padding: 19px;
+}
+.modal-btn:hover{
+	background-color: #2F4D01;
+}
+
+.modal-title{
+	text-align: center;
+	color:#2F4D01;
+
+}
+.modal-body p{
+	color:#2F4D01;
+	font-size: 25px;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* Services Section */
 
 #services {
 	padding: 120px 0;
